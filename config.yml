@@ -1,0 +1,74 @@
+enderian:
+    - "§a+§fCan teleport with Ender Pearls without having any"
+    - "§a+§fCan pick up blocks (has silk touch hands)"
+    - "§c-§fTakes damage while in contact with water" 
+    - "§c-§fIs afraid of pumpkins"
+   
+merling:
+    - "§a+§fCan breathe underwater"
+    - "§a+§fCan see underwater"
+    - "§a+§fCan break blocks underwater as if"
+    - "§fnot in water"
+    - "§a+§fHas increased swim speed" 
+    - "§c-§fCan only hold their breath for a"
+    - "§flimited time while out of water"
+
+phantom:
+    - "§f(can whitch in and out of Phantom state)"
+    - "§a+§fCan walk through solid blocks while in"
+    - "§fphantom state"
+    - "§a+§fIf invisible in phantom state"
+    - "§c-§fGets hungry over time while in"
+    - "§fphantom state"
+    - "§c-§fBegins to burn in daylight when not"
+    - "§finvisible"
+    - "§c-§fHas 3 hearts of life"
+
+elytrian:
+    - "§a+§fHas Elytra wings by nature"
+    - "§a+§fEvery 30 seconds can launch"
+    - "§fthemselves up into the air"
+    - "§a+§fDeals double damage while in Elytra"
+    - "§fflight"
+    - "§c-§fTakes more kinetic damage (fall"
+    - "§fdamage, flying into blocks)"
+    - "§c§fRecieves a stacking debuff (slowness"
+    - "§fand weakness) when in places with a low"
+    - "§fceiling"
+
+blazeborn:
+    - "§a+§fIs imune to fire and lava"
+    - "§a+§fCan shoot blaze fireballs"
+    - "§a+§fSets enemys on fire when attacking"
+    - "§c-§fTakes damage in water, under rain and"
+    - "§fsnow (also snowballs)"
+    
+avian:
+    - "§a+§fHas permanent slow falling"
+    - "§a+§fIs a bit quicker"
+    - "§c-§fHas to sleep at high altitudes"
+    - "§c-§fCan't eat meat"
+
+arachnid:
+    - "§a+§fHas the ability to climb"
+    - "§a+§fHinders foes with cobweb on attack"
+    - "§c-§fHas 3 less health of life"
+    - "§c-§fCan only eat meat"
+    
+shulk:
+    - "§a+§fNatural protection"
+    - "§a+§fIs immune to arrows (they bounce"
+    - "§foff)"
+    - "§c+§fCan break blocks without tools"
+    - "§c-§fCannot use shields"
+    - "§c-§fGets hungry faster"
+
+feline:
+    - "§a+§fDoes not take fall damage"
+    - "§a+§fCan jump higher"
+    - "§c+§fHas permanent night vision"
+    - "§c+§fScares creepers and phantoms away"
+    - "§c-§fCan only mine natural stone"
+    - "§fwhen there are at most 2 adjacent"
+    - "§fnatural stone"
+    - "§c-§fHas 1 less health"

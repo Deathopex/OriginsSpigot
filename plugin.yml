@@ -1,0 +1,10 @@
+name: OriginsSpigot
+version: 1.0
+description: A plugin for Bukkit/Spigot/Paper that adds Origins to Minecraft
+author: Deathopex
+api-version: 1.13
+main: origins.Main
+commands:
+    origin: 
+        description: Used to change or get player origins
+        usage: Syntax error. Use /origin set/get/panel <player> <origin>
